@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @theokes
 - 👀 I’m interested in AI & programming.
-- 🌱 I’m currently learning haskell, python, and full stack web dev.
-- 💞️ I’m looking to collaborate --
-- 📫 How to reach me --
+
 
 <!---
 theokes/theokes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
