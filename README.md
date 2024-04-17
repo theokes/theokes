@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @theokes
-- 👀 I’m interested in AI & programming.
+
 
 
 <!---
